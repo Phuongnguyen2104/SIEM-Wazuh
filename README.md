@@ -33,6 +33,11 @@ Dự án tập trung vào việc giám sát hoạt động của các endpoint, 
 ## 🏗️ Solution Architecture
 Sơ đồ kiến ​​trúc sau đây minh họa việc triển khai môi trường giám sát an ninh mạng dựa trên SIEM được thực hiện trong dự án này.
 
+<p align="center">
+  <img src="images/architecture-diagram.png"
+       alt="SIEM-Based Cybersecurity Monitoring Using Wazuh Architecture"
+       width="100%">
+</p>
 
 ### Architecture Overview
 - Máy chủ Ubuntu Wazuh Server là nơi lưu trữ Wazuh Manager, Indexer và Dashboard.
